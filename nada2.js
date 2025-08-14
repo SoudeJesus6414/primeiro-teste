@@ -10,4 +10,5 @@ const numbers3 = [45, 4, 9, 16, 25];
 const numbers4 = numbers1.map(value => value * 2
 );
 console.log(numbers4)
+console.log('Fiz uma mudança.')
 
